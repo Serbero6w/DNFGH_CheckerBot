@@ -9,7 +9,7 @@
 | It can be obtained from https://telegram.dog/BotFather
 |
 */
-$config['botToken'] = "";
+$config['botToken'] = "2102336109:AAFparAwKuBLqHw2bQtSSCjNTaD9DNZaSIk";
 
 /*
 |--------------------------------------------------------------------------
@@ -20,7 +20,7 @@ $config['botToken'] = "";
 | ID can be obtained from https://telegram.dog/username_to_id_bot
 |
 */
-$config['adminID'] = "";
+$config['adminID'] = "@DIOS_SERBEROViP";
 
 /*
 |--------------------------------------------------------------------------
@@ -31,7 +31,7 @@ $config['adminID'] = "";
 | ID can be obtained from https://telegram.dog/BotFather
 |
 */
-$config['logsID'] =  "";
+$config['logsID'] =  "carding";
 
 /*
 |--------------------------------------------------------------------------
@@ -52,9 +52,9 @@ $config['timeZone'] =  "Asia/Kolkata";
 | Database to Store User Data
 |
 */
-$config['db']['hostname'] =  "localhost";
+$config['db']['hostname'] =  "localhost";https://app.skyvia.com/#/98492/query
 $config['db']['username'] =  "root";
-$config['db']['password'] =  "";
+$config['db']['password'] =  "root";
 $config['db']['database'] =  "checkerbot";
 
 /*
