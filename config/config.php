@@ -55,7 +55,7 @@ $config['timeZone'] =  "Asia/Kolkata";
 $config['db']['hostname'] =  "localhost";https://app.skyvia.com/#/98492/query
 $config['db']['username'] =  "root";
 $config['db']['password'] =  "root";
-$config['db']['database'] =  "checkerbot";
+$config['db']['database'] =  "@CC_GHOSTCHK_bot";
 
 /*
 |--------------------------------------------------------------------------
