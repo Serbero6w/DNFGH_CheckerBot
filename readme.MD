@@ -1,5 +1,5 @@
 
-# SDMN CC Checker Bot [Heroku]
+# DNFGHVIP CC Checker Bot [Heroku]
 
 A Telegram CC Checker Bot with hella lotta features.
 
