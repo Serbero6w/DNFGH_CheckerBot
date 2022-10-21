@@ -121,10 +121,3 @@ If you're feeling generous and want to support this project, you can donate
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2WR24fnzSsiHf1TmpIWQn_E3qgJTLBcsK5w&usqp=CAU" alt="Bitcoin" height="25" style="margin-left: 15px;"/>
 
 </a> - Donate through Bitcoin
-
-  
-
-  
-
-
-
