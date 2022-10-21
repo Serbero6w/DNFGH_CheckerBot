@@ -106,7 +106,7 @@ A Telegram CC Checker Bot with hella lotta features.
 
 ### Hosting on Heroku
 
-**[Click Here to go to Heroku Version](https://github.com/Serbero6w/DNFGH_CheckerBot/heroku)**
+**[Click Here to go to Heroku Version](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Serbero6w/DNFGH_CheckerBot/generate)**
 
 ## 🎯 Author
 
