@@ -1,5 +1,5 @@
 
-# SDMN CC Checker Bot [Heroku]
+# SDMN CC Checker Bot
 
 A Telegram CC Checker Bot with hella lotta features.
 
@@ -16,7 +16,7 @@ A Telegram CC Checker Bot with hella lotta features.
 
 - **Anti-Spam System**
     - Users have to wait a certain amount of time before performing the next task
-    - You can customize the time in ```ENVIRONMENT_VARIABLES`` on Heroku
+    - You can customize the time in config/config.php
 
 - **Checker Stats System**
     - Number of Live and Dead CC Checked by a User, and All users will be Visible
@@ -60,19 +60,16 @@ A Telegram CC Checker Bot with hella lotta features.
   
 ## ⚙️ Deployment
 
-### Hosting on Heroku
-    
- [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fiam-NVN%2FSDMN_CheckerBot%2Fblob%2Fheroku-version)
- - Star and Fork this Repo
- - Click on the Above Shown ```Deploy To Heroku``` Button
- - Get Free Database from [Here](https://freesqldatabase.com)
- - Login to [WebPHPmyAdmin](http://www.phpmyadmin.co) with DB Credentials
+### Hosting on Server [MySQL DB Required]
+
+ - Download the Files from [Here](https://github.com/iam-NVN/SDMN_CheckerBot/archive/refs/heads/main.zip)
+ - Upload it to your Server and Extract it
+ - Edit config/config.php file and set Admin ID, Logs ID, DB Credentials and SK Keys
  - Import checkerbot.sql file into your Database through PHPmyAdmin
- - Enter the Vars asked whilst Deploying the App
- - Set Webhook to main.php in your Heroku app
-   - https://api.telegram.org/bot[BOTTOKEN]/setWebhook?url=https://[HEROKUAPPNAME].herokuapp.com/main.php   <br />
-    Open the URL Replacing ```[BOTTOKEN]``` With your BotToken and ```[HEROKUAPPNAME]``` with your Heroku App Name
- <br />
+ - Set Webhook to main.php in root folder of bot 
+
+### Hosting on Heroku
+**[Click Here to go to Heroku Version](https://github.com/iam-NVN/SDMN_CheckerBot/tree/heroku-version)**
 
 
 ## 🎯 Author
@@ -82,6 +79,6 @@ A Telegram CC Checker Bot with hella lotta features.
 ## 💸 Donations 
 If you're feeling generous and want to support this project, you can donate 
 
-<a href="https://www.blockchain.com/btc/address/33Kya1FcwLBUfPwfH6GTkyZswH9RZjPr51">
+<a href="https://www.blockchain.com/btc/address/1BNdZDEMfwaFfKULKucMkytXVqoWp4dfij">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2WR24fnzSsiHf1TmpIWQn_E3qgJTLBcsK5w&usqp=CAU" alt="Bitcoin" height="25" style="margin-left: 15px;"/>
 </a> - Donate through Bitcoin
