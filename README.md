@@ -69,7 +69,16 @@ A Telegram CC Checker Bot with hella lotta features.
  - Set Webhook to main.php in root folder of bot 
 
 ### Hosting on Heroku
-**[Click Here to go to Heroku Version](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Serbero6w/DNFGH_CheckerBot/tree/heroku-version)**
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Serbero6w/DNFGH_CheckerBot/tree/heroku-version)  
+ - Click on the Above Shown ```Deploy To Heroku``` Button
+ - Get Free Database from [Here](https://freesqldatabase.com)
+ - Login to [WebPHPmyAdmin](http://www.phpmyadmin.co) with DB Credentials
+ - Import checkerbot.sql file into your Database through PHPmyAdmin
+ - Enter the Vars asked whilst Deploying the App
+ - Set Webhook to main.php in your Heroku app
+   - https://api.telegram.org/bot[BOTTOKEN]/setWebhook?url=https://[HEROKUAPPNAME].herokuapp.com/main.php   <br />
+    Open the URL Replacing ```[BOTTOKEN]``` With your BotToken and ```[HEROKUAPPNAME]``` with your Heroku App Name
+ <br />
 
 
 ## 🎯 Author
@@ -79,6 +88,6 @@ A Telegram CC Checker Bot with hella lotta features.
 ## 💸 Donations 
 If you're feeling generous and want to support this project, you can donate 
 
-<a href="https://www.blockchain.com/btc/address/1BNdZDEMfwaFfKULKucMkytXVqoWp4dfij">
+<a href="https://www.blockchain.com/btc/address/33Kya1FcwLBUfPwfH6GTkyZswH9RZjPr51">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2WR24fnzSsiHf1TmpIWQn_E3qgJTLBcsK5w&usqp=CAU" alt="Bitcoin" height="25" style="margin-left: 15px;"/>
 </a> - Donate through Bitcoin
