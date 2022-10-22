@@ -105,8 +105,8 @@ A Telegram CC Checker Bot with hella lotta features.
  - Set Webhook to main.php in root folder of bot 
 
 ### Hosting on Heroku
-<img src="https://camo.githubusercontent.com/6979881d5a96b7b18a057083bb8aeb87ba35fc279452e29034c1e1c49ade0636/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" alt="Deploy To Heroku" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" style="max-width: 100%;">
-[Click Here to go to Heroku Version](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fiam-NVN%2FSDMN_CheckerBot%2Fblob%2Fheroku-version)
+<img src="https://camo.githubusercontent.com/6979881d5a96b7b18a057083bb8aeb87ba35fc279452e29034c1e1c49ade0636/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" alt="Deploy To Heroku" style="max-width: 100%;">
+**[Click Here to go to Heroku Version](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fiam-NVN%2FSDMN_CheckerBot%2Fblob%2Fheroku-version)**
 - Star and Fork this Repo
  - Click on the Above Shown ```Deploy To Heroku``` Button
 ## 🎯 Author
